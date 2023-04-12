@@ -3,7 +3,6 @@
     <p><strong>KNmap</strong> is a vulnerability scanner powered by Nmap and ChatGPT.
 </p>
 </div>
-![python](https://img.shields.io/badge/python-3.x-blue)
 
 <h2 align="center">Installing</h2>
 
