@@ -1,6 +1,6 @@
 <div align="center">
-    <h1><img src="melting2.png" alt="KNmap"/></a></h1>
-    <p><strong>KNmap🧠</strong> is a vulnerability sacnner powered by Nmap and ChatGPT.</p>
+    <h1><img src="logo.png" alt="KNmap"/></a></h1>
+    <p><strong>KNmap</strong> is a vulnerability sacnner powered by Nmap and ChatGPT.</p>
 </div>
 
 <h2 align="center">Installing</h2>
