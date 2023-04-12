@@ -1,7 +1,7 @@
+![python](https://img.shields.io/badge/python-3.x-blue)
 <div align="center">
     <h1><img src="logo.png" alt="KNmap"/></a></h1>
     <p><strong>KNmap</strong> is a vulnerability scanner powered by Nmap and ChatGPT.</p>
-    ![python](https://img.shields.io/badge/python-3.x-blue)
 </div>
 
 <h2 align="center">Installing</h2>
